@@ -63,7 +63,7 @@ export class App implements AfterViewInit {
       // }
       // `,
       // ],
-      injectStylesUrls: ['./styles.scss'],
+      injectStylesUrls: ['./styles.css'],
       slidesPerView: 1,
       spaceBetween: 20,
       navigation: true,
