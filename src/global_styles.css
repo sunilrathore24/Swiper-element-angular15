@@ -1,0 +1,5 @@
+/* Add application styles & imports to this file! */
+:host(.my-swiper) {
+  background-color: red;
+  color: blue;
+}
